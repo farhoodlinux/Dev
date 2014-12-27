@@ -1,0 +1,16 @@
+C:\TwsCs\AuTrade\AuTrade\bin\Debug\AuTradeDB.accdb
+C:\TwsCs\AuTrade\AuTrade\bin\Debug\AuTrade.exe.config
+C:\TwsCs\AuTrade\AuTrade\bin\Debug\AuTrade.exe
+C:\TwsCs\AuTrade\AuTrade\bin\Debug\AuTrade.pdb
+C:\TwsCs\AuTrade\AuTrade\bin\Debug\AuTrade.Domain.dll
+C:\TwsCs\AuTrade\AuTrade\bin\Debug\AuTrade.Repository.dll
+C:\TwsCs\AuTrade\AuTrade\bin\Debug\AuTrade.Domain.pdb
+C:\TwsCs\AuTrade\AuTrade\bin\Debug\AuTrade.Repository.pdb
+C:\TwsCs\AuTrade\AuTrade\obj\x86\Debug\AuTrade.csprojResolveAssemblyReference.cache
+C:\TwsCs\AuTrade\AuTrade\obj\x86\Debug\AuTrade.AppSettingForm.resources
+C:\TwsCs\AuTrade\AuTrade\obj\x86\Debug\AuTrade.Home.resources
+C:\TwsCs\AuTrade\AuTrade\obj\x86\Debug\AuTrade.Properties.Resources.resources
+C:\TwsCs\AuTrade\AuTrade\obj\x86\Debug\AuTrade.ScannerForm.resources
+C:\TwsCs\AuTrade\AuTrade\obj\x86\Debug\AuTrade.csproj.GenerateResource.Cache
+C:\TwsCs\AuTrade\AuTrade\obj\x86\Debug\AuTrade.exe
+C:\TwsCs\AuTrade\AuTrade\obj\x86\Debug\AuTrade.pdb

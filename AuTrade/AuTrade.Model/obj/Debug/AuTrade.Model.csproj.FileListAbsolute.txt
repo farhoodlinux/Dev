@@ -1,0 +1,4 @@
+C:\TwsCs\AuTrade\AuTrade.Model\bin\Debug\AuTrade.Model.dll
+C:\TwsCs\AuTrade\AuTrade.Model\bin\Debug\AuTrade.Model.pdb
+C:\TwsCs\AuTrade\AuTrade.Model\obj\Debug\AuTrade.Model.dll
+C:\TwsCs\AuTrade\AuTrade.Model\obj\Debug\AuTrade.Model.pdb

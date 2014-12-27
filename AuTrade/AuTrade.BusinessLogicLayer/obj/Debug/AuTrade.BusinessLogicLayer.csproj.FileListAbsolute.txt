@@ -1,0 +1,4 @@
+C:\TwsCs\AuTrade\AuTrade.BusinessLogicLayer\bin\Debug\AuTrade.BusinessLogicLayer.dll
+C:\TwsCs\AuTrade\AuTrade.BusinessLogicLayer\bin\Debug\AuTrade.BusinessLogicLayer.pdb
+C:\TwsCs\AuTrade\AuTrade.BusinessLogicLayer\obj\Debug\AuTrade.BusinessLogicLayer.dll
+C:\TwsCs\AuTrade\AuTrade.BusinessLogicLayer\obj\Debug\AuTrade.BusinessLogicLayer.pdb

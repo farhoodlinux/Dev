@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project basedir="." default="minimal-update">
+
+  <!-- ===================================================== -->
+  <!-- Properties                                            -->
+farhoodm@hotmail.com  -- Send me an e-mail to this address 
+ <!-- ===================================================== -->
+
+  <!-- deployment properties -->
+  <property name="temp.dir" value="temp" />
+  <property name="was.dir" value="/opt/IBM/WebSphere/Liberty/usr/servers/simpleServer" />
+  <property name="wl.war" value="kohls.war" />
+  <property name="wl.zip" value="wl.zip" />
+  <property name="wl.war.dir" value="${was.dir}/apps" />
+  <property name="wl.config.dir" value="/opt/wladmin/IBM/AppConfig" />
+  <property name="jsl.war" value="jsl.war" />

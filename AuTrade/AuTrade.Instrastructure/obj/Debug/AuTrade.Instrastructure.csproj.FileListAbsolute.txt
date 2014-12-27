@@ -1,0 +1,4 @@
+C:\TwsCs\AuTrade\AuTrade.Instrastructure\bin\Debug\AuTrade.Instrastructure.dll
+C:\TwsCs\AuTrade\AuTrade.Instrastructure\bin\Debug\AuTrade.Instrastructure.pdb
+C:\TwsCs\AuTrade\AuTrade.Instrastructure\obj\Debug\AuTrade.Instrastructure.dll
+C:\TwsCs\AuTrade\AuTrade.Instrastructure\obj\Debug\AuTrade.Instrastructure.pdb

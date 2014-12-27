@@ -1,0 +1,9 @@
+C:\TwsCs\AuTrade\AuTrade.Repository\bin\Debug\AuTradeDB.accdb
+C:\TwsCs\AuTrade\AuTrade.Repository\bin\Debug\AuTrade.Repository.dll.config
+C:\TwsCs\AuTrade\AuTrade.Repository\bin\Debug\AuTrade.Repository.dll
+C:\TwsCs\AuTrade\AuTrade.Repository\bin\Debug\AuTrade.Repository.pdb
+C:\TwsCs\AuTrade\AuTrade.Repository\bin\Debug\AuTrade.Domain.dll
+C:\TwsCs\AuTrade\AuTrade.Repository\bin\Debug\AuTrade.Domain.pdb
+C:\TwsCs\AuTrade\AuTrade.Repository\obj\Debug\AuTrade.Repository.csprojResolveAssemblyReference.cache
+C:\TwsCs\AuTrade\AuTrade.Repository\obj\Debug\AuTrade.Repository.dll
+C:\TwsCs\AuTrade\AuTrade.Repository\obj\Debug\AuTrade.Repository.pdb

@@ -1,0 +1,4 @@
+C:\TwsCs\AuTrade\AuTrade.Domain\bin\Debug\AuTrade.Domain.dll
+C:\TwsCs\AuTrade\AuTrade.Domain\bin\Debug\AuTrade.Domain.pdb
+C:\TwsCs\AuTrade\AuTrade.Domain\obj\Debug\AuTrade.Domain.dll
+C:\TwsCs\AuTrade\AuTrade.Domain\obj\Debug\AuTrade.Domain.pdb
